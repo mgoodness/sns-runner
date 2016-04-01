@@ -1,0 +1,6 @@
+hash: afc8808d173b80564bcf3f4a40e2184bdf4d137e1d8608e8031c2a692482fc4c
+updated: 2016-03-31T18:06:40.034871106-05:00
+imports:
+- name: github.com/pbnjay/gosns
+  version: 585555b2d50b03d8391211d3aa94e6d388b18981
+devImports: []

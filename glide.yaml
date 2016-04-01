@@ -1,0 +1,3 @@
+package: github.com/mgoodness/sns-runner
+import:
+- package: github.com/pbnjay/gosns
